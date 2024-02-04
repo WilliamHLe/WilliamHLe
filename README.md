@@ -1,6 +1,1 @@
-<a href=#><img src="contributions.svg"></a>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
-</p>
+<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
